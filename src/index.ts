@@ -9,3 +9,4 @@ export * from './response-cache.js';
 export * from './compression.js';
 export * from './session-store.js';
 export * from './csrf-protection.js';
+export * from './helmet-security.js';
