@@ -13,3 +13,4 @@ export * from './helmet-security.js';
 export * from './timeout-handler.js';
 export * from './request-validator.js';
 export * from './api-versioning.js';
+export * from './content-negotiation.js';
