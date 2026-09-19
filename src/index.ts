@@ -15,3 +15,4 @@ export * from './request-validator.js';
 export * from './api-versioning.js';
 export * from './content-negotiation.js';
 export * from './etag-generator.js';
+export * from './static-server.js';
