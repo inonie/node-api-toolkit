@@ -7,3 +7,4 @@ export * from './error-boundary.js';
 export * from './body-parser.js';
 export * from './response-cache.js';
 export * from './compression.js';
+export * from './session-store.js';
