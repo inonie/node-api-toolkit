@@ -12,3 +12,4 @@ export * from './csrf-protection.js';
 export * from './helmet-security.js';
 export * from './timeout-handler.js';
 export * from './request-validator.js';
+export * from './api-versioning.js';
