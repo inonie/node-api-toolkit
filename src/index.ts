@@ -5,3 +5,4 @@ export * from './jwt-guard.js';
 export * from './request-logger.js';
 export * from './error-boundary.js';
 export * from './body-parser.js';
+export * from './response-cache.js';
