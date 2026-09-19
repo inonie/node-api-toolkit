@@ -20,3 +20,4 @@ export * from './proxy-middleware.js';
 export * from './websocket-upgrade.js';
 export * from './health-endpoint.js';
 export * from './metrics-exporter.js';
+export * from './graceful-shutdown.js';
