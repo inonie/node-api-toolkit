@@ -17,3 +17,4 @@ export * from './content-negotiation.js';
 export * from './etag-generator.js';
 export * from './static-server.js';
 export * from './proxy-middleware.js';
+export * from './websocket-upgrade.js';
