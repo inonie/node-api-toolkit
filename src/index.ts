@@ -10,3 +10,4 @@ export * from './compression.js';
 export * from './session-store.js';
 export * from './csrf-protection.js';
 export * from './helmet-security.js';
+export * from './timeout-handler.js';
