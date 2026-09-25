@@ -36,3 +36,4 @@ export * from './response-formatter.js';
 export * from './middleware-chain.js';
 export * from './plugin-system.js';
 export * from './event-emitter.js';
+export * from './task-scheduler.js';
