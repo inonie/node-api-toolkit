@@ -24,3 +24,4 @@ export * from './graceful-shutdown.js';
 export * from './dependency-injector.js';
 export * from './feature-flags.js';
 export * from './config-loader.js';
+export * from './health-monitor.js';
