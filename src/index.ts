@@ -41,3 +41,4 @@ export * from './connection-pool.js';
 export * from './query-builder.js';
 export * from './schema-validator.js';
 export * from './token-manager.js';
+export * from './session-store.js';
