@@ -31,3 +31,4 @@ export * from './rate-limiter.js';
 export * from './logger-stream.js';
 export * from './error-handler.js';
 export * from './metrics-collector.js';
+export * from './request-validator.js';
