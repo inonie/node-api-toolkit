@@ -27,3 +27,4 @@ export * from './config-loader.js';
 export * from './health-monitor.js';
 export * from './cache-layer.js';
 export * from './auth-guard.js';
+export * from './rate-limiter.js';
