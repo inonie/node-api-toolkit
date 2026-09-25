@@ -32,3 +32,4 @@ export * from './logger-stream.js';
 export * from './error-handler.js';
 export * from './metrics-collector.js';
 export * from './request-validator.js';
+export * from './response-formatter.js';
