@@ -26,3 +26,4 @@ export * from './feature-flags.js';
 export * from './config-loader.js';
 export * from './health-monitor.js';
 export * from './cache-layer.js';
+export * from './auth-guard.js';
