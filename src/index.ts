@@ -39,3 +39,4 @@ export * from './event-emitter.js';
 export * from './task-scheduler.js';
 export * from './connection-pool.js';
 export * from './query-builder.js';
+export * from './schema-validator.js';
