@@ -40,3 +40,4 @@ export * from './task-scheduler.js';
 export * from './connection-pool.js';
 export * from './query-builder.js';
 export * from './schema-validator.js';
+export * from './token-manager.js';
