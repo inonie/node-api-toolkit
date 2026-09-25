@@ -30,3 +30,4 @@ export * from './auth-guard.js';
 export * from './rate-limiter.js';
 export * from './logger-stream.js';
 export * from './error-handler.js';
+export * from './metrics-collector.js';
