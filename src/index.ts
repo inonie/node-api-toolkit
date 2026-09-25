@@ -33,3 +33,4 @@ export * from './error-handler.js';
 export * from './metrics-collector.js';
 export * from './request-validator.js';
 export * from './response-formatter.js';
+export * from './middleware-chain.js';
