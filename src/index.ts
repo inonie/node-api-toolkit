@@ -28,3 +28,4 @@ export * from './health-monitor.js';
 export * from './cache-layer.js';
 export * from './auth-guard.js';
 export * from './rate-limiter.js';
+export * from './logger-stream.js';
