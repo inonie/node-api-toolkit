@@ -75,3 +75,4 @@ export * from './canary-deployer.js';
 export * from './blue-green-switch.js';
 export * from './rollback-guard.js';
 export * from './snapshot-store.js';
+export * from './projection-builder.js';
