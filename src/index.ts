@@ -71,3 +71,4 @@ export * from './tenant-resolver.js';
 export * from './quota-manager.js';
 export * from './feature-toggle.js';
 export * from './ab-test-router.js';
+export * from './canary-deployer.js';
