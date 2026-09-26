@@ -66,3 +66,4 @@ export * from './log-correlator.js';
 export * from './secret-rotator.js';
 export * from './cert-manager.js';
 export * from './oauth-flow.js';
+export * from './rbac-engine.js';
