@@ -73,3 +73,4 @@ export * from './feature-toggle.js';
 export * from './ab-test-router.js';
 export * from './canary-deployer.js';
 export * from './blue-green-switch.js';
+export * from './rollback-guard.js';
