@@ -1,0 +1,21 @@
+{
+  "name": "node-api-toolkit",
+  "version": "1.0.0",
+  "description": "A lightweight toolkit for building production-ready Node.js APIs",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test dist-test",
+    "lint": "eslint src/"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9",
+    "@types/node": "^22"
+  }
+}
