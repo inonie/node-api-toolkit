@@ -47,3 +47,4 @@ export * from './notification-service.js';
 export * from './webhook-handler.js';
 export * from './api-versioning.js';
 export * from './data-transformer.js';
+export * from './circuit-breaker.js';
