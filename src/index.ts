@@ -63,3 +63,4 @@ export * from './health-aggregator.js';
 export * from './trace-propagator.js';
 export * from './span-collector.js';
 export * from './log-correlator.js';
+export * from './secret-rotator.js';
