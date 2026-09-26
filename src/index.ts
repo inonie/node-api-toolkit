@@ -74,3 +74,4 @@ export * from './ab-test-router.js';
 export * from './canary-deployer.js';
 export * from './blue-green-switch.js';
 export * from './rollback-guard.js';
+export * from './snapshot-store.js';
