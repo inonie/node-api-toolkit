@@ -69,3 +69,4 @@ export * from './oauth-flow.js';
 export * from './rbac-engine.js';
 export * from './tenant-resolver.js';
 export * from './quota-manager.js';
+export * from './feature-toggle.js';
