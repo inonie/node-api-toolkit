@@ -49,3 +49,4 @@ export * from './api-versioning.js';
 export * from './data-transformer.js';
 export * from './circuit-breaker.js';
 export * from './bulkhead-pattern.js';
+export * from './saga-orchestrator.js';
