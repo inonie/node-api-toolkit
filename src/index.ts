@@ -60,3 +60,4 @@ export * from './cqrs-handler.js';
 export * from './api-gateway.js';
 export * from './service-mesh.js';
 export * from './health-aggregator.js';
+export * from './trace-propagator.js';
