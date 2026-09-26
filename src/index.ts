@@ -65,3 +65,4 @@ export * from './span-collector.js';
 export * from './log-correlator.js';
 export * from './secret-rotator.js';
 export * from './cert-manager.js';
+export * from './oauth-flow.js';
