@@ -55,3 +55,4 @@ export * from './dead-letter-queue.js';
 export * from './retry-backoff.js';
 export * from './idempotency-key.js';
 export * from './distributed-lock.js';
+export * from './event-sourcing.js';
