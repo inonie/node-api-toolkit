@@ -54,3 +54,4 @@ export * from './outbox-pattern.js';
 export * from './dead-letter-queue.js';
 export * from './retry-backoff.js';
 export * from './idempotency-key.js';
+export * from './distributed-lock.js';
