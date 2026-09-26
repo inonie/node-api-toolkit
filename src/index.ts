@@ -51,3 +51,4 @@ export * from './circuit-breaker.js';
 export * from './bulkhead-pattern.js';
 export * from './saga-orchestrator.js';
 export * from './outbox-pattern.js';
+export * from './dead-letter-queue.js';
