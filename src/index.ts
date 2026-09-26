@@ -56,3 +56,4 @@ export * from './retry-backoff.js';
 export * from './idempotency-key.js';
 export * from './distributed-lock.js';
 export * from './event-sourcing.js';
+export * from './cqrs-handler.js';
